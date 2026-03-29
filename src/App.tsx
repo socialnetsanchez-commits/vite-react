@@ -19,8 +19,8 @@ interface AmountResult {
 
 const DEFAULT_CONFIG: Config = {
   pair: "XAUUSD",
-  lots: 0.02,
-  pipValue: 0.2,
+  lots: 0.01,
+  pipValue: 0.1,
   usdEur: 0.92,
 };
 
